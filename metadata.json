@@ -1,0 +1,6 @@
+{
+  "name": "File Zone",
+  "description": "Sleek, lightning-fast professional file manager and ZIP utility for Android with fully adaptive Material 3 theme, Arabic support, and advanced storage capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

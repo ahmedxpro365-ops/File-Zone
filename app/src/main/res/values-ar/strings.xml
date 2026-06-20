@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">فايل زون</string>
+    <string name="nav_explorer">المتصفح</string>
+    <string name="nav_recents">الأخيرة</string>
+    <string name="nav_bookmarks">المفضلة</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="title_file_viewer">المستعرض</string>
+    
+    <string name="action_copy">نسخ</string>
+    <string name="action_move">نقل</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_rename">إعادة تسمية</string>
+    <string name="action_zip">ضغط (ZIP)</string>
+    <string name="action_unzip">فك ضغط (ZIP)</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_bookmark">إضافة للمفضلة</string>
+    <string name="action_unbookmark">إزالة من المفضلة</string>
+    
+    <string name="search_hint">البحث عن الملفات والمجلدات…</string>
+    <string name="empty_dir_title">مجلد فارغ</string>
+    <string name="empty_dir_desc">لا توجد ملفات أو مجلدات هنا.</string>
+    <string name="empty_recents_title">لا توجد ملفات أخيرة</string>
+    <string name="empty_recents_desc">ستظهر الملفات التي قمت بزيارتها مؤخراً هنا.</string>
+    <string name="empty_bookmarks_title">لا توجد مفضلة</string>
+    <string name="empty_bookmarks_desc">أضف مجلدات أو ملفات إلى المفضلة للوصول السريع إليها.</string>
+    
+    <string name="dialog_create_folder">إنشاء مجلد</string>
+    <string name="dialog_rename">إعادة تسمية العنصر</string>
+    <string name="dialog_compress_zip">ضغط إلى ملف ZIP</string>
+    <string name="dialog_delete_confirm">موافقة على الحذف</string>
+    <string name="delete_confirm">هل أنت متأكد من رغبتك في حذف هذا الملف؟</string>
+    <string name="delete_confirm_multi">هل أنت متأكد من رغبتك في حذف العناصر المحددة؟</string>
+    
+    <string name="placeholder_name">الاسم</string>
+    <string name="button_cancel">إلغاء</string>
+    <string name="button_create">إنشاء</string>
+    <string name="button_ok">موافق</string>
+    
+    <string name="hint_items_selected">تم تحديد %1$d عناصر</string>
+    
+    <string name="settings_theme">مظهر التطبيق</string>
+    <string name="settings_theme_desc">التبديل بين الوضع الليلي والوضع الفاتح</string>
+    <string name="settings_lang">Language / اللغة</string>
+    <string name="settings_lang_desc">تغيير لغة التطبيق الحالية</string>
+    
+    <string name="toast_file_copied">تم النسخ بنجاح</string>
+    <string name="toast_file_moved">تم النقل بنجاح</string>
+    <string name="toast_file_deleted">تم الحذف بنجاح</string>
+    <string name="toast_folder_created">تم إنشاء المجلد بنجاح</string>
+    <string name="toast_renamed">تمت إعادة التسمية بنجاح</string>
+    <string name="toast_zip_created">تم ضغط المجلد إلى ملف ZIP</string>
+    <string name="toast_unzipped">تم فك ضغط ملف ZIP بنجاح</string>
+    <string name="toast_error">فشلت العملية</string>
+    
+    <string name="perm_desc">يحتاج فايل زون إلى صلاحية الوصول إلى جميع الملفات لإدارتها واستعراضها.</string>
+    <string name="button_grant_perm">منح الصلاحية</string>
+</resources>
